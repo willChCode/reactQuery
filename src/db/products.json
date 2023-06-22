@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "pilfrut",
+      "price": 10,
+      "description": "pilfrut economico",
+      "inStock": false
+    },
+    {
+      "id": 2,
+      "name": "yogurt",
+      "price": 10,
+      "description": "yogurt economico",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "leche",
+      "price": 10,
+      "description": "leche economico",
+      "inStock": false
+    }
+  ]
+}
